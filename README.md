@@ -11,7 +11,11 @@ npm init -y
 ```
 
 ```bash
-npm install ethers dotenv
+npm install ethers@5
+```
+
+```bash
+npm install dotenv
 ```
 
 ubah file .env isi PRIVATE-KEY=isidenganpkanda
