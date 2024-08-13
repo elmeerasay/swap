@@ -34,5 +34,5 @@ tdk ada LOG! setelah klik node swapterus.js silahkan cek explorer atleta dengan 
 
 Untuk berhenti
 ```bash
-CTRL + X
+CTRL + C
 ```
