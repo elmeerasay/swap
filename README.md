@@ -1,4 +1,8 @@
 ```bash
+git clone https://github.com/elmeerasay/swap.git
+```
+
+```bash
 cd swap
 ```
 
