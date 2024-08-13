@@ -25,3 +25,10 @@ nano .env
 ```bash
 node swapterus.js
 ```
+tdk ada LOG! setelah klik node swapterus.js silahkan cek explorer atleta dengan addressmu.....
+
+
+Untuk berhenti
+```bash
+CTRL + X
+```
