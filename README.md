@@ -19,5 +19,9 @@ dengan cara nano .env
 kalau sudah tekan CTRL + X (yes)
 
 ```bash
+nano .env
+```
+
+```bash
 node swapterus.js
 ```
