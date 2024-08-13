@@ -19,7 +19,7 @@ const routerABI = [
 const routerContract = new ethers.Contract(routerAddress, routerABI, wallet);
 
 async function swapETHForTokens() {
-    const amountIn = ethers.utils.parseEther('0.0001'); // Amount of ETH to swap
+    const amountIn = ethers.utils.parseEther('0.00011'); // Amount of ETH to swap
     const path = [
         '0x6f11f80cbd3a9723648f0ba9921bc7b4c8dd6a94', // ART address
         '0x4997b8907b6fd3c30de941cdb79d273428586e78'  // DAI address
