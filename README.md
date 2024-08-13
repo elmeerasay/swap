@@ -14,9 +14,7 @@ npm init -y
 npm install ethers dotenv
 ```
 
-ubah file .env isi PRIVATE-KEY=isidenganpkanda
-dengan cara nano .env
-kalau sudah tekan CTRL + X (yes)
+ubah file .env isi PRIVATE-KEY=isidenganpkanda  dengan cara nano .env  kalau sudah tekan CTRL + X (yes)
 
 ```bash
 node swapterus.js
